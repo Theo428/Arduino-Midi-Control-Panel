@@ -6,5 +6,3 @@ The arduino code in the repository is designed to be used with the midi controll
 
 ## Schematics
 ![Full schematic 1](README/Schematic1.png)
-![Left schematic 2](README/Schematic2.png)
-![Right schematic 3](README/Schematic3.png)
